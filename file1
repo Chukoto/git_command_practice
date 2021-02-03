@@ -1,13 +1,20 @@
 git status
+check the current situation on stage
 
 git log
+check the log you worked on git
 
 git branch
+check the current branch
 
 git checkout
+this is a command to make a branch or switch the specific branch from current one
 
 git add
+make file be on stage.
 
 git fetch
+sync with remote info
 
 git push
+push current work to old remote info
