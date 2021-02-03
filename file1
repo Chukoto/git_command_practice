@@ -1,3 +1,13 @@
-亜嗚呼
+git status
 
-現在の時刻は12:29です。
+git log
+
+git branch
+
+git checkout
+
+git add
+
+git fetch
+
+git push
