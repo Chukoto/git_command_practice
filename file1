@@ -18,3 +18,6 @@ sync with remote info
 
 git push
 push current work to old remote info
+
+
+PLEASE DON'T FORGET "git pull" IF YOU MAKE A BRANCH!
