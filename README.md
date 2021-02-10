@@ -149,3 +149,18 @@ git clone git@github.com:Githubユーザー名/リポジトリ名.git
 # 存在する他のブランチに切り替える
 ```
 
+##### マスターにマージ
+
+```
+% git checkout [master]
+# マスターに切り替える
+
+% git branch
+# 現在のブランチがmasterにいることを確認する
+
+% git merge [masterにマージしたいブランチ名]
+# masterにブランチをマージする
+```
+
+--------
+
