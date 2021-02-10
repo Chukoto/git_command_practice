@@ -82,3 +82,17 @@ git clone git@github.com:Githubユーザー名/リポジトリ名.git
 % git pull origin
 # ローカル（既存の古い情報）をリモート（最新の情報）と同期する
 ```
+# Gitコマンド
+
+#####Github(リモート)から情報を取得・反映
+
+```
+% git clone [keyやURL]
+# 新規にローカル側にコピーを作成する
+```
+
+```
+% git pull origin
+# ローカル（既存の古い情報）をリモート（最新の情報）と同期する
+```
+
