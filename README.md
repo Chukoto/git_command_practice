@@ -71,7 +71,7 @@ git clone git@github.com:Githubユーザー名/リポジトリ名.git
 
 # Gitコマンド
 
-#####Github(リモート)から情報を取得・反映
+##### Github(リモート)から情報を取得・反映
 
 ```
 % git clone [keyやURL]
@@ -84,7 +84,7 @@ git clone git@github.com:Githubユーザー名/リポジトリ名.git
 ```
 # Gitコマンド
 
-#####Github(リモート)から情報を取得・反映
+##### Github(リモート)から情報を取得・反映
 
 ```
 % git clone [keyやURL]
@@ -96,7 +96,7 @@ git clone git@github.com:Githubユーザー名/リポジトリ名.git
 # ローカル（既存の古い情報）をリモート（最新の情報）と同期する
 ```
 
-#####ステージング から プッシュまで
+##### ステージング から プッシュまで
 
 ```
 % git status
