@@ -2,18 +2,19 @@
 
 # Gitコマンド練習用リポジトリ
 
-git command test
+### SSH公開鍵作成
 
-test
+```
+% cd ~/.ssh
+% ssh-keygen
+```
 
-test
+### 読み取り属性付与
 
-test
+```
+% pwd
+Users/ユーザー名/.ssh
 
-test
+% chmod 600 id_rsa
+```
 
-# test
-
-## test
-
-### test
